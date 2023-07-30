@@ -1,0 +1,1 @@
+When you try to compile the above code, you will encounter a compilation error because the "SayHello" method is marked as private and cannot be accessed from outside the "HelloWorld" class.
